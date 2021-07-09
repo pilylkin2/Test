@@ -1,0 +1,29 @@
+	.alif {
+		border-color:#c2e254 #9bb838 #9bb838 #c2e254;
+		cursor:pointer;
+		color: black;
+		margin-left: 100px;
+		position: relative;
+		top: 3px;
+		left: 170px; 
+	}
+	.heading1 {
+		cursor:pointer;
+		color: black;
+		margin-left: 100px;
+		position: relative;
+		top: 3px;
+		left: 400px; 
+	}
+	table {
+		margin:20px auto;
+		border-style: solid;
+		border-collapse: collapse;
+		border-color: blue;
+	}
+	td {
+		top: 3px;
+		text-align: center; 
+		border-style: dotted dashed solid double;
+		border-color: blue;
+	}
